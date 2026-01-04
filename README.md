@@ -1,3 +1,6 @@
+# Coder_Forces_Project
+Project : Coder_Forces_Project
+
 # Java Full Stack Workshop – Home Page
 
 This project is a React.js-based responsive Home Page designed for a Java Full Stack live workshop.
@@ -22,3 +25,7 @@ The UI is inspired by a reference website and enhanced with improved structure, 
 ## Note
 The reference website was used only for understanding structure and content.
 All UI design and implementation are original.
+=======
+# Coder_Forces_Project
+Project : Coder_Forces_Project
+>>>>>>> 2b3a5c2d2f92f35ce20fc3fde5e18d2bc22e2db7
